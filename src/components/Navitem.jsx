@@ -1,10 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function Navitem(props) {
-
-  return (
-    <div>{props.name}</div>
-  )
+  return <div>{props.name}</div>;
 }
 
-export default Navitem
+export default Navitem;
