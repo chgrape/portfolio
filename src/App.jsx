@@ -22,7 +22,7 @@ function App() {
         url={"https://github.com/chgrape/spotify-social-app"}
       />
       <Project
-        name={"This portfolio"}
+        name={"Portfolio"}
         desc={"Made using TailwindCSS and React"}
         url={"https://github.com/chgrape/portfolio"}
       />
